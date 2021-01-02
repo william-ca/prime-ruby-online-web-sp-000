@@ -1,8 +1,7 @@
 def prime?(i)
   if i % (2...100)
     return false
-  else 
+  else
     return true
   end
 end
-
